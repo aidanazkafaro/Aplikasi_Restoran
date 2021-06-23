@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <omp.h>
-
+//proyek akhir
 //dibuat oleh semua sebagai Linked List untuk setiap meja pada restoran
 struct meja{
 	char nama[30];	//meja atas nama
