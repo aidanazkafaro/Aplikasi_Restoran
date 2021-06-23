@@ -522,3 +522,4 @@ void avg_rating(struct total *headNodeTotal){
 	printf("\nRating Restoran = %.1f\n\n", sum/jumlah_total_pengunjung);
 }
 
+
