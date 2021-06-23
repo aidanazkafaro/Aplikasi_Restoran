@@ -1,0 +1,7 @@
+ahmad 8 cukup bagus
+michael 9 sangat bagus
+eko 10 perfect
+bambang 5 jelek
+ratna 6 kurang baik
+
+joshevan 8 baik
