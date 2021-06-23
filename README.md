@@ -1,5 +1,9 @@
 # Aplikasi Restoran
 
+Program ini memiliki dua peran yaitu sebagai pengunjung dan sebagai admin.
+
+Pengunjung dapat melakukan reservasi meja pada restoran, melihat jumlah pengunjung yang berada pada restoran, dan rating dari restoran tersebut. Admin dapat melihat list pengunjung yang berada pada restoran dan juga review dan rating yang diberikan oleh pengunjung saat pengunjung keluar restoran. 
+
 This source code is made by 
 
   1. Aidan Azkafaro Deson (2006528862)
